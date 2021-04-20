@@ -8,7 +8,7 @@ server = "smtp.gmail.com"
 port = 587
 
 sender = "tech2yourself@gmail.com"
-password = "Rakesh@Rosan123"
+password = "########"// your password
 
 # Load the Random Forest CLassifier model
 filename = 'first-innings-score-lr-model.pkl'
